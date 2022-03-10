@@ -1,0 +1,22 @@
+/*
+    There is a probleme when I create a new file when there is file
+    already opened.
+    When I add a file many time it appear mane time in recent file.
+    Devlop copym cut, paste, undo and redo
+    Bring back the recnent file widget when it is closed
+    Before closing he app, ask for saving if it's not the case.
+*/
+
+#include "texteditor.h"
+
+#include <QApplication>
+
+int main(int argc, char *argv[])
+{
+    QApplication a(argc, argv);
+
+    TextEditor textEditor;
+    textEditor.show();
+
+    return a.exec();
+}
