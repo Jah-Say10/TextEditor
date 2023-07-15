@@ -5,7 +5,7 @@
 ## Dakar, Senegal
 
 # Contact:
-## diasseomar12@gmail.com
+## diasseomar10@gmail.com
 
 # TextEditor
-It's a fonctionnal text editor make C++ and Qt.
+It's a fonctionnal text editor make with C++ and Qt.
