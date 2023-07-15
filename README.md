@@ -4,7 +4,7 @@
 # Location:
 ## Dakar, Senegal
 
-# Author:
+# Contact:
 ## diasseomar12@gmail.com
 
 # TextEditor
